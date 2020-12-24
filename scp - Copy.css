@@ -1,0 +1,46 @@
+.headline{
+    color: white;
+    font-size: 3rem;
+    font-family: monospace;
+    font-style: italic;
+}
+.scheadline{
+    color: white;
+    font-size: 2rem;
+    font-family: Arial;
+    float: right;
+    padding: right:20%;
+}
+.abheadline{
+    float: right;
+    padding-right: 20%;
+}
+.horizontal{
+    display: inline;
+    margin: 10px;
+}
+.scheadline a{
+    color: rgb(56, 56, 56);
+}
+.scheadline a:hover{
+    color:white;
+}
+.scheadline a.active{
+    color: white;
+}
+.quote{
+    text-align: center;
+    color: white;
+    font-size: 6rem;
+    margin-top: 10%;
+    font-family:Impact;
+}
+.btn{
+    color:black;
+    text-decoration: none;
+    text-align: center;
+}
+.ending{
+    color: grey;
+  
+}
