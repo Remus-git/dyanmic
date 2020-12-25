@@ -44,3 +44,11 @@
     color: grey;
   
 }
+.row{padding-top: px;
+     padding-left: 50px;
+}
+.row img{width: 275px;
+    height: 200px;
+}
+
+.rule{color: blue;}
