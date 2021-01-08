@@ -1,15 +1,15 @@
 .headline{
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 3rem;
     font-family: monospace;
     font-style: italic;
+    
 }
 .scheadline{
     color: white;
     font-size: 2rem;
     font-family: Arial;
     float: right;
-    padding: right:20%;
 }
 .abheadline{
     float: right;
